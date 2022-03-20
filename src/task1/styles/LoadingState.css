@@ -1,0 +1,8 @@
+.loading-state {
+    height: 100vh;
+    text-align: center;
+}
+
+.loading-state > h1 {
+    margin-top: 40vh;
+}

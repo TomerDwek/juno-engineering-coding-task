@@ -1,0 +1,13 @@
+.carousel-item {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+img {
+    height: 60vh;
+    width: 100vh;
+    border-radius: 20px;
+}
+
